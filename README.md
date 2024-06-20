@@ -8,7 +8,6 @@ This is a simple Snake game implemented in C++ using the ncurses library. The ga
 - Continuous snake movement
 - Arrow key controls
 - Real-time timer display
-- Menu options read from a file
 
 ## Prerequisites
 
