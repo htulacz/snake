@@ -91,7 +91,7 @@ int main() {
         if (input == KEY_UP && selected > 1) selected--;
 
         if (input == 10) {
-            if (selected == 3) {
+            if (selected == menuOptions.size()) {
                 run = false;
             } else {
                 int width = 50;
